@@ -37,7 +37,7 @@ Please select a CPU Scheduling algorithm (or enter 7 to exit):
 1
 ```
 
-The program will then perform the CPU Scheduling and output the results of the scheduling including the Completion Times, Response Times, Waiting Times, Turnaround Times, and the Gantt Chart. After outputing the results, the program will repeat and prompt you again on which CPU Scheduling Algorithm you want to use.
+The program will then perform the CPU Scheduling and output the results of the scheduling including the Completion Times, Response Times, Waiting Times and Turnaround Times of the processes, along with the Gantt Chart which shows how the scheduling is done. After outputing the results, the program will repeat and prompt you again on which CPU Scheduling Algorithm you want to use.
 
 ```
 Completion Time: 
