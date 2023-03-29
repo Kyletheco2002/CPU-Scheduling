@@ -22,7 +22,7 @@ Please input the absolute file path of the csv file:
 C:\Users\Kyle\Documents\Scheduling\input.csv
 ```
 
-If the csv file is valid, you will then be prompted to select one CPU Scheduling Algorithm that the program would use to schedule the order in which processes are processed by the CPU. Input a number between 1-6 to select an option.
+If the csv file is valid, you will then be prompted to select one CPU Scheduling Algorithm that the program would use to schedule the order in which processes are processed by the CPU. To select an algorithm, simply input a number between 1 to 6.
 
 ```
 Please select a CPU Scheduling algorithm (or enter 7 to exit): 
@@ -80,4 +80,72 @@ Please select a CPU Scheduling algorithm (or enter 7 to exit):
 7. Exit 
 ```
 
+If you input a number between 1 to 6, the program will perform the CPU Scheduling again using the newly selected CPU Scheduling Algorithm and output the results.
+
+```
+Please select a CPU Scheduling algorithm (or enter 7 to exit): 
+1. First-Come, First-Served 
+2. Shortest-Job-First 
+3. Shortest-Remaining-Time-First 
+4. Priority Preemptive 
+5. Priority Non-Preemptive 
+6. Round-Robin 
+7. Exit 
+
+4
+Completion Time: 
+P1 - 32
+P2 - 18
+P3 - 3
+P4 - 23
+
+Response Time: 
+P1 - 18
+P2 - 0
+P3 - 0
+P4 - 0
+Average Response Time: 4.5
+
+Waiting Time: 
+P1 - 18
+P2 - 0
+P3 - 0
+P4 - 16
+Average Waiting Time: 8.5
+
+Turnaround Time: 
+P1 - 27
+P2 - 14
+P3 - 2
+P4 - 23
+Average Turnaround Time: 16.5
+
+Gantt Chart:
+0--P4--1--P3--3--P4--4--P2--18--P4--23--P1--32
+
+Please select a CPU Scheduling algorithm (or enter 7 to exit): 
+1. First-Come, First-Served 
+2. Shortest-Job-First 
+3. Shortest-Remaining-Time-First 
+4. Priority Preemptive 
+5. Priority Non-Preemptive 
+6. Round-Robin 
+7. Exit 
+```
+
+However, if you wish to exit the program, then you may input the number 7 to close the program.
+
+```
+Please select a CPU Scheduling algorithm (or enter 7 to exit): 
+1. First-Come, First-Served 
+2. Shortest-Job-First 
+3. Shortest-Remaining-Time-First 
+4. Priority Preemptive 
+5. Priority Non-Preemptive 
+6. Round-Robin 
+7. Exit 
+
+7
+Thank you for using the program.
+```
 
