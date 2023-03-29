@@ -1,0 +1,7 @@
+Time Quantum
+3
+Process ID,Arrival Time,Burst Time,Priority Number
+1,5,9,3
+2,4,14,2
+3,1,2,1
+4,0,7,3
