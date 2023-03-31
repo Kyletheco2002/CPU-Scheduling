@@ -31,8 +31,8 @@ public class Driver {
 	 * 
 	 * Error Guide is from Stack Overflow
 	 * Link: https://stackoverflow.com/questions/10382929/how-to-fix-java-lang-unsupportedclassversionerror-unsupported-major-minor-versi
-	 * Authors/Writers: Juha Palomäki, Mark Rotteveel
-	 * Authors/Writers' Profile Link (respectively):
+	 * Authors: Juha Palomäki, Mark Rotteveel
+	 * Authors' Profile Link (respectively):
 	 * https://stackoverflow.com/users/350615/juha-palom%c3%a4ki
 	 * https://stackoverflow.com/users/466862/mark-rotteveel
 	 * License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -40,8 +40,8 @@ public class Driver {
 	 * 
 	 * Version Guide is from Stack Overflow
 	 * Link: https://stackoverflow.com/questions/10858193/java-jdk-sdk-se
-	 * Authors/Writers: Simone Gianni, wgj
-	 * Authors/Writers' Profile Link (respectively):
+	 * Authors: Simone Gianni, wgj
+	 * Authors' Profile Link (respectively):
 	 * https://stackoverflow.com/users/500916/simone-gianni
 	 * https://stackoverflow.com/users/2529592/wgj
 	 * License: https://creativecommons.org/licenses/by-sa/4.0/
