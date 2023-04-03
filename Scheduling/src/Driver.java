@@ -27,11 +27,11 @@ public class Driver {
 	 * Java Fields and Methods - https://javapointers.com/java/java-core/fields-and-methods/
 	 * Operators in Java - https://www.javatpoint.com/operators-in-java#:~:text=Operators%20in%20Java.%20Operator%20in%20Java%20is%20a,Operator%20and%20%3B%20Assignment%20Operator.%20Java%20Operator%20Precedence
 	 * Java Operators - https://www.w3schools.com/java/java_operators.asp
-	 * How to solve a “java.lang.LinkageError: ” between two JAR files? - https://ma.juii.net/blog/java-lang-linkageerror-between-two-jar-files
+	 * How to solve a ï¿½java.lang.LinkageError: ï¿½ between two JAR files? - https://ma.juii.net/blog/java-lang-linkageerror-between-two-jar-files
 	 * 
 	 * Error Guide is from Stack Overflow
 	 * Link: https://stackoverflow.com/questions/10382929/how-to-fix-java-lang-unsupportedclassversionerror-unsupported-major-minor-versi
-	 * Authors: Juha Palomäki, Mark Rotteveel
+	 * Authors: Juha Palomï¿½ki, Mark Rotteveel
 	 * Authors' Profile Link (respectively):
 	 * https://stackoverflow.com/users/350615/juha-palom%c3%a4ki
 	 * https://stackoverflow.com/users/466862/mark-rotteveel
@@ -48,7 +48,7 @@ public class Driver {
 	 * [No changes were made]
 	 * 
 	 * Check if a String Is an Integer in Java - https://www.delftstack.com/howto/java/how-to-check-if-a-string-is-an-integer-in-java/
-	 * One Dimensional Array In Java – Tutorial & Example - https://javatutoring.com/java-one-dimensional-array/#:~:text=One-dimensional%20array%20in%20Java%20programming%20is%20an%20array,you%20want%20to%20be%20in%20the%20specified%20array.
+	 * One Dimensional Array In Java ï¿½ Tutorial & Example - https://javatutoring.com/java-one-dimensional-array/#:~:text=One-dimensional%20array%20in%20Java%20programming%20is%20an%20array,you%20want%20to%20be%20in%20the%20specified%20array.
 	 * Guide to the Java ArrayList - https://www.baeldung.com/java-arraylist#:~:text=%20Guide%20to%20the%20Java%20ArrayList%20%201,There%20are%20two%20types%20of%20iterators...%20More%20?msclkid=dd259c32cee311ec82382666519ec7c2
 	 * Java ArrayList - https://www.w3schools.com/java/java_arraylist.asp?msclkid=dd2629d8cee311eca99d7969fadc2034
 	 * Arraylist java: Explanation to declare, initialize and print it with code example - https://www.arrowhitech.com/arraylist-java-explanation-to-declare-initialize-and-print-it-with-code-example/#:~:text=2d%20Arraylist%20Java%20uses%20arrays%20to%20store%20elements.,Java%20is%20that%20Arraylist%20Java%20is%20not%20synchronized.?msclkid=51a90cf6cef611ec9f42e5e6ff327978  
@@ -1305,12 +1305,6 @@ public class Driver {
  * Sample Input (for my Computer) : C:\Users\Kyle\Documents\Scheduling\input.csv
  */
 
-
-
-/*
- * Kyle Christian Co
- * Results for input.csv have been checked and all of it is correct.
- */
 
 
 
